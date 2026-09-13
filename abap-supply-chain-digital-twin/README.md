@@ -1,7 +1,7 @@
-# 01 - Autonomous SAP Supply Chain Digital Twin (ABAP)
+# Autonomous SAP Supply Chain Digital Twin (ABAP)
 
 ## Executive Overview
-An enterprise-grade **Supply Chain Digital Twin** engineered for the **SAP NetWeaver / S/4HANA** platform in **Object-Oriented ABAP (ABAP Objects 7.50+)**. It autonomously models multi-echelon procurement topologies, tracks real-time inventory buffers across global plant networks, simulates supplier disruptions (e.g. shipping bottlenecks, factory halts), and automatically synthesizes SAP **Purchase Requisitions (PRs)** and lateral **Stock Transport Orders (STOs)** via standard BAPI interfaces (`BAPI_PO_CREATE1`).
+An enterprise-grade **Supply Chain Digital Twin** engineered for the **SAP NetWeaver / S/4HANA** platform in **Object-Oriented ABAP (ABAP Objects 7.50+)**. It autonomously models multi-echelon procurement topologies, tracks real-time inventory buffers across global plant networks, simulates supplier disruptions (e.g. shipping bottlenecks, factory halts), and automatically synthesises SAP **Purchase Requisitions (PRs)** and lateral **Stock Transport Orders (STOs)** via standard BAPI interfaces (`BAPI_PO_CREATE1`).
 
 ## System Architecture
 
